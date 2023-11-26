@@ -1,6 +1,4 @@
-<h1 align="center">Hi, I'm Kacper!</h1>
-
-###
+<h2 align="center">Hi, I'm Kacper!</h2>
 
 * Self-taught **Python**, **Rust** and **Java** developer
 * Currently studying *[Computer Science and Intelligent Systems](https://www.eaiib.agh.edu.pl/en/computer-science-and-intelligent-systems/)* at **[AGH University of Science and Technology](https://www.agh.edu.pl/en)** in Kraków
@@ -44,5 +42,3 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=heroku" height="40" alt="Heroku"  />
 </div>
-
-###
